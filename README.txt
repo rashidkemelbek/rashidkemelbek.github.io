@@ -1,17 +1,14 @@
-RASHID KEMELBEK — ACADEMIC WEBSITE V2
+RASHID KEMELBEK — ACADEMIC WEBSITE V3
 
-Upload these THREE files to the root of rashidkemelbek.github.io:
-1. index.html
-2. style.css
-3. Rashid_Kemelbek_CV.pdf
+UPLOAD THESE THREE FILES TO THE ROOT OF:
+rashidkemelbek/rashidkemelbek.github.io
 
-When GitHub asks about replacing index.html/style.css, replace the existing versions.
+- index.html
+- style.css
+- Rashid_Kemelbek_CV.pdf
 
-V2 adds:
-- CV button
-- ORCID: 0009-0009-5485-5542
-- LinkedIn
-- Zenodo
-- GitHub
+Replace the existing index.html and style.css.
+Then click Commit changes and refresh:
+https://rashidkemelbek.github.io/
 
-After committing, refresh https://rashidkemelbek.github.io/
+README does not need to be uploaded.
