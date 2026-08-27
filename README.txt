@@ -1,36 +1,17 @@
-RASHID KEMELBEK — ACADEMIC WEBSITE
-====================================
+RASHID KEMELBEK — ACADEMIC WEBSITE V2
 
-FILES
------
-index.html   Main website
-style.css    Design and responsive layout
+Upload these THREE files to the root of rashidkemelbek.github.io:
+1. index.html
+2. style.css
+3. Rashid_Kemelbek_CV.pdf
 
-HOW TO PUBLISH ON GITHUB PAGES
-------------------------------
-1. Open your repository: rashidkemelbek/rashidkemelbek.github.io
-2. Upload BOTH index.html and style.css to the root of the repository.
-3. Click "Commit changes".
-4. Wait 1–3 minutes.
-5. Open: https://rashidkemelbek.github.io
+When GitHub asks about replacing index.html/style.css, replace the existing versions.
 
-IMPORTANT
----------
-- Do NOT rename index.html.
-- Keep style.css in the same folder as index.html.
-- The site is designed to work without JavaScript.
-- It is responsive on desktop and mobile.
+V2 adds:
+- CV button
+- ORCID: 0009-0009-5485-5542
+- LinkedIn
+- Zenodo
+- GitHub
 
-WHAT TO UPDATE LATER
---------------------
-- Add professional email
-- Add ORCID
-- Add Google Scholar
-- Add LinkedIn
-- Add downloadable CV
-- Add exact bibliographic details and links for the two KIPD reports
-- Add publication links once manuscripts are published/accepted
-- Add a professional photo if desired
-
-Version: 1.0
-Created for Rashid Kemelbek
+After committing, refresh https://rashidkemelbek.github.io/
